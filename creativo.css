@@ -1,0 +1,230 @@
+/* section 1*/
+
+.sec1{
+    margin-top: 50px;
+}
+.butt1{
+    border-style: none;
+    border-radius: 15px;
+}
+.main{
+    background-color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(48, 212, 212);
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.butt2{
+    background-color: white;
+    color: rgb(48, 212, 212);
+    border-style: none;
+    border-radius: 10px 0px 0px 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+   
+}
+.butt2:hover{
+    color: white;
+    background-color: rgb(30, 168, 168);
+    text-decoration: none;
+}
+.butt3{
+    background-color: white;
+    color: rgb(48, 212, 212);
+    border-style: none;
+    border-radius: 0px 0px 0px 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.butt3:hover{
+    color: white;
+    background-color: rgb(30, 168, 168);
+    text-decoration: none;
+}
+.butt4{
+    background-color: white;
+    color: rgb(48, 212, 212);
+    border-style: none;
+    border-radius: 0px 0px 0px 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.butt4:hover{
+    color: white;
+    background-color: rgb(30, 168, 168);
+    text-decoration: none;
+}
+.butt5{
+    background-color: white;
+    color: rgb(48, 212, 212);
+    border-style: none;
+    border-radius: 0px 10px 10px 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.butt5:hover{
+    color: white;
+    background-color: rgb(30, 168, 168);
+    text-decoration: none;
+}
+/* section 2 */
+
+.sec2{
+    padding-top: 40px;
+}
+
+.para1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    color: white;
+}
+.para2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: white    ;
+
+}
+
+.butt6{
+    border-style: none;
+    border-radius: 15px;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 20px;
+    background-color: rgb(30, 168, 168);
+    color: white;
+}
+.butt6:hover{
+    color: rgb(30, 168, 168);
+    background-color: white;
+    text-decoration: none;
+}
+.bi{
+    font-size: 20px;
+}
+
+/* section 3 */
+
+.sec3{
+    padding-top: 60px;
+}
+
+.inbox{
+    background-color: white;
+    border-radius: 15px;
+    margin: 5px;
+}
+.globe{
+    padding-top: 55px;
+    padding-left: 20px;
+}
+.para3{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    color: rgb(30, 168, 168);
+    padding-top: 20px;
+}
+.para4{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    padding: 10px;
+}
+
+.para5{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 35px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    text-align: justify;    
+}
+
+
+/* section 4 */
+
+.sec4{
+    padding-top: 50px;
+}
+
+.para6{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: white;
+}
+.para7{
+    color: white;
+}
+.signup{
+    background-color: rgb(30, 168, 168);
+    padding-top: 15px;
+    
+}
+.para8{
+    padding-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    padding: 5px;
+    color: white;
+}
+.email{
+    z-index: 1;
+    width: 220px;
+    height: 40px;
+    margin-left: 35px;
+    border-style: none;
+    border-radius: 50px;
+    margin-bottom: 30px;
+}
+.para9{
+    z-index: 5;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    height: 40px;
+    border-style: none;
+    border-radius: 50px;
+    background-color: white;
+    color: rgb(30, 168, 168);
+}
+.para9:hover{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(48, 212, 212);
+}
+/* section 5 */
+
+.sec5{
+    padding-top: 30px;
+}
+.para10{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    color: white;
+}
+.para11{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+.icon{
+    border-style: solid;
+    border-radius: 50px;
+    padding: 5px 10px 5px 10px;
+    color: rgb(30, 168, 168);
+}
+
